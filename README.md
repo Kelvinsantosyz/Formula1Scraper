@@ -41,6 +41,9 @@ pip install beautifulsoup4 pandas matplotlib
      ```
      python teams_by_engine.py
      ```
+     ![Engines](https://github.com/Kelvinsantosyz/Formula1Scraper/assets/109118257/562a5359-806c-4dc3-95fb-e58c69223469)
+
+     
 
      This will generate a pie chart showing the distribution of Formula 1 teams by engine used. The chart will be displayed on the screen.
 
@@ -48,6 +51,8 @@ pip install beautifulsoup4 pandas matplotlib
      ```
      python ranking_teams_plot.py
      ```
+     ![Ranking](https://github.com/Kelvinsantosyz/Formula1Scraper/assets/109118257/5b6affe0-ae3e-49c3-a757-8d9aab1de511)
+
 
      This will generate a horizontal bar chart showing the ranking of Formula 1 teams based on points. The chart will be displayed on the screen.
 
@@ -55,6 +60,7 @@ pip install beautifulsoup4 pandas matplotlib
      ```
      python ranking_drivers_plot.py
      ```
+      ![Drivers](https://github.com/Kelvinsantosyz/Formula1Scraper/assets/109118257/38dbd968-4005-4ad2-9cc3-0ea493dffa9c)
 
      This will generate a horizontal bar chart showing the ranking of Formula 1 drivers based on points. The chart will be displayed on the screen.
 
